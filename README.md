@@ -77,7 +77,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 When access this rest end point
 
-http://localhost:8085/api/admin
+http://localhost:8080/api/admin
 
 It will redirect into login page and if you provide the user who has admin role it will navigate to respective page and give the output.
 
